@@ -1,0 +1,20 @@
+.flexible {
+    display: flex;
+}
+
+.justify-content-space-around {
+    justify-content: space-around;
+}
+
+.justify-content-space-between {
+    justify-content: space-between;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+.justify-content-space-evenly{
+    justify-content: space-evenly
+}
+
+
